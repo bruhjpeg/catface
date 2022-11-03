@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+}
+body {
+  background: linear-gradient(90deg, #f97794, #623aa2);
+}
+
+header {
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 70px;
+}
+h1 {
+  cursor: pointer;
+}
+
+section {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  margin: auto;
+  padding: 50px;
+  border-radius: 200px;
+  box-shadow: 5px 10px 20px rgb(42, 21, 46);
+}
+
+img {
+  width: 200px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 200px;
+}
